@@ -5,3 +5,5 @@ game-development.png -> <a href="https://www.flaticon.com/free-icons/game-develo
 trim.png -> <a href="https://www.flaticon.com/free-icons/video-editing" title="video editing icons">Video editing icons created by Hilmy Abiyyu A. - Flaticon</a>
 
 programming.png -> <a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by juicy_fish - Flaticon</a>
+
+menu.png -> <a href="https://www.flaticon.com/free-icons/navigation" title="navigation icons">Navigation icons created by Andy Horvath - Flaticon</a>
