@@ -1,0 +1,7 @@
+game-development.png -> <a href="https://www.flaticon.com/free-icons/game-development" title="game development icons">Game development icons created by surang - Flaticon</a>
+
+3d-model.png -> <a href="https://www.flaticon.com/free-icons/3d" title="3d icons">3d icons created by Freepik - Flaticon</a>
+
+trim.png -> <a href="https://www.flaticon.com/free-icons/video-editing" title="video editing icons">Video editing icons created by Hilmy Abiyyu A. - Flaticon</a>
+
+programming.png -> <a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by juicy_fish - Flaticon</a>
