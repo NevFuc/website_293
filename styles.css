@@ -9,10 +9,22 @@ body {
 
 a {
     text-decoration: none;
+    color: aqua;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .mobile_nav, .burger_toggle{
     display: none;
+}
+
+iframe{
+    border-radius: 10px;
+    max-width: 70%;
+    min-width: 30%;
 }
 
 nav {
@@ -70,6 +82,7 @@ article h2{
     margin-top: 50px;
     margin-bottom: 50px;
     font-size: 1.4em;
+    line-height: 1.1em;
 }
 
 article h3{
@@ -208,6 +221,7 @@ figcaption {
     border-style: none;
     box-shadow: 0 0 20px 10px #00000040;
     transition: 0.2s;
+    margin-top: 20px;
 }
 
 .submit_button:hover{
@@ -227,6 +241,31 @@ figcaption {
 .input_container {
     display: flex;
     flex-direction: column;
+    margin: 20px;
+    flex: 1 1 100%; /* Allow flexible basis and wrapping */
+}
+
+.input_container:first-child, .input_container:nth-child(2) {
+    margin: 20px;
+    flex: 1 1 45%; 
+}
+
+.contact_form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.input_container label{
+    margin-bottom: 10px;
+}
+
+textarea{
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 35px;
+    color: #303030;
 }
 
 
@@ -234,6 +273,8 @@ figcaption {
     nav{
         display: none;
     }
+
+
 
     .mobile_nav{
         display: flex;
@@ -323,5 +364,11 @@ figcaption {
 
     footer div{
         margin: 20px 10px 20px 0px;
+    }
+
+
+    .input_container:first-child, .input_container:nth-child(2) {
+        width: 50%;
+        margin: 20px;
     }
 }
